@@ -1,8 +1,8 @@
 <p align="center"><img width=40% src="https://github.com/ColinMoulds/bio/blob/master/Media/logo.png"></p>
 
-<p align="center"># Colin Moulds</p>
+# Colin Moulds
 
-<p align="center">## Short Bio Description</p>
+## Short Bio Description
 
 <p align="center">Colin Moulds is a third year Computer Science student
 specializing in IT Systems & Networking at the University
@@ -12,7 +12,7 @@ Colin began programming in Visual Basic during high school but
 never took it further and has since expanded his programing and
 web development knowledge.</p>
 
-<p align="center">## Acknowledgments
+## Acknowledgments
 
 * Adobe Creative Suit
 * Inspiration
