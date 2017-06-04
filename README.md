@@ -1,4 +1,4 @@
-<p align="center"><img width=80% src="https://github.com/ColinMoulds/bio/blob/master/Media/logo.png"></p>
+<p align="center"><img width=40% src="https://github.com/ColinMoulds/bio/blob/master/Media/logo.png"></p>
 
 # Colin Moulds
 
